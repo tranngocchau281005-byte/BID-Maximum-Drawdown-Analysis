@@ -9,7 +9,6 @@ This project was completed as part of the **Quantitative Finance** course. It an
 - Peak Value Calculation
 - Drawdown Calculation
 - Maximum Drawdown (MDD) Estimation
-- Drawdown Percentage Calculation
 - Risk Visualization
 
 ## Tools
