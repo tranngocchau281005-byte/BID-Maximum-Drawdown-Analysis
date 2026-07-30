@@ -6,7 +6,6 @@ This project was completed as part of the **Quantitative Finance** course. It an
 
 ## Methodology
 
-- Historical Price Data Processing
 - Peak Value Calculation
 - Drawdown Calculation
 - Maximum Drawdown (MDD) Estimation
