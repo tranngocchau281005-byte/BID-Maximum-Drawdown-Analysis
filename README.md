@@ -7,7 +7,7 @@ This project was completed as part of the **Quantitative Finance** course. It an
 ## Methodology
 
 - Peak Value Calculation
-- Drawdown Calculation
+- Drawdown (DD) Calculation
 - Maximum Drawdown (MDD) Estimation
 - Risk Visualization
 
