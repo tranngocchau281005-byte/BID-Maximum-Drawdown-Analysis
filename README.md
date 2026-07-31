@@ -2,8 +2,7 @@
 
 ## Overview
 
-This project was completed as part of the **Quantitative Finance** course. It analyzes the historical stock price of **Joint Stock Commercial Bank for Investment and Development of Vietnam (BIDV, ticker: BID)** to measure downside risk by calculating **Drawdown** and **Maximum Drawdown (MDD)**. The project also visualizes the stock price and drawdown over time.
-
+This project was completed as part of the **Quantitative Finance** course. It evaluates the downside risk of **Joint Stock Commercial Bank for Investment and Development of Vietnam (BIDV, ticker: BID)** using **Drawdown** and **Maximum Drawdown (MDD)**.
 ## Methodology
 
 - Peak Value Calculation
