@@ -1,4 +1,4 @@
-# Maximum Drawdown Analysis – BID Case Study
+# Maximum Drawdown Analysis 
 
 ## Overview
 
