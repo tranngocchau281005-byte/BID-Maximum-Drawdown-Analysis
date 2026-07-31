@@ -19,6 +19,6 @@ This project was completed as part of the **Quantitative Finance** course. It an
 - Matplotlib
 
 ## Report
-
+https://tranngocchau281005-byte.github.io/BID-Maximum-Drawdown-Analysis/
 
 
