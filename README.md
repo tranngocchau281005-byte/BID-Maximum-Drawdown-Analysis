@@ -7,7 +7,7 @@ This project was completed as part of the **Quantitative Finance** course. It ev
 
 - Peak Value Calculation
 - Drawdown (DD) Calculation
-- Maximum Drawdown (MDD) Estimation
+- Maximum Drawdown (MDD) Calculation
 
 ## Tools
 
