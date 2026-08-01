@@ -16,7 +16,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 # upload file vnindex vào (nếu tải từ investing.com)
-t = 'C:/Users/Chau/OneDrive - THPT Nguyễn Công Trứ/Attachments/TC định lượng/BID_MDD.csv'
+t = 'path to your dataset.csv'
 df = pd.read_csv (t,sep=";")
 print (df)
 print (df.info())
